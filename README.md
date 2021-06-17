@@ -5,7 +5,7 @@
 ### Made By [Legend](https://t.me/legendtheterrorin)
 
 <p align="center">
-  <img src="https://telegra.ph/file/a765ac304f4d6f507e544.jpg">
+  <img src="https://telegra.ph/file/acfa893b0ba8d83a79706.jpg">
 </p>
 
 <h2> 🔥 Features 🔥 </h2>
