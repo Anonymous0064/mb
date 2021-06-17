@@ -3,6 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
 ### Made By [Legend](https://t.me/legendtheterrorin)
+### A [Minions Bots] (https://t.me/Minions_Bots) Project
 
 <p align="center">
   <img src="https://telegra.ph/file/acfa893b0ba8d83a79706.jpg">
