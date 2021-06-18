@@ -106,6 +106,7 @@ If you donlt like to play in linked channel:
 <details>
 
 <summary> • 🔥CREDITS🔥 • </summary>
-<h5 align="center"> <a href="https://github.com/OxyNotOp">Oxy</a></h2>
+<h4 align="center"> <a href="https://github.com/OxyNotOp">OxyNotOp</a></h24>
+<h4 align="center"> <a href="https://github.com/InukaAsith">InukaAsith</a></h24>
 
 </details>
