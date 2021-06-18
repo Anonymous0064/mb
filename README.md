@@ -102,5 +102,3 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 
-### Credits
-- [Daisy](https://replit.com/@SpEcHiDe/GenerateStringSession)
