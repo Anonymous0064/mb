@@ -101,4 +101,11 @@ If you donlt like to play in linked channel:
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
 
+### Credits
 
+<details>
+
+<summary> • 🔥CREDITS🔥 • </summary>
+<h5 align="center"> <a href="https://github.com/OxyNotOp">Oxy</a></h2>
+
+</details>
