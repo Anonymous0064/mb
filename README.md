@@ -27,7 +27,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Namokarsingh09/musicbot)
 
-Use [Repel](https://) to get pyrogram string session
+Use [Repel](https://GenerateStringSession.SpEcHIDe.repl.run) to get pyrogram string session
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
