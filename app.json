@@ -2,7 +2,7 @@
   "name": "Musicbot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Namokarsingh09/musicbot",
+  "repository": "https://github.com/Anonymous0064/mb",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -25,7 +25,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "The_legends_support"
+      "value": "hackelite02"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -44,12 +44,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/a765ac304f4d6f507e544.jpg"
+      "value": " https://telegra.ph/file/d52d8c5e2522474804fce.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "Minions_bots"
+      "value": "hackelite01"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
