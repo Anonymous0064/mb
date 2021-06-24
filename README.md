@@ -25,7 +25,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonymous 0064/mb)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonymous0064/mb)
 
 Use [Repel](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
 
